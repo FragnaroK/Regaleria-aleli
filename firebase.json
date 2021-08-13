@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "regaleria-aleli",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
