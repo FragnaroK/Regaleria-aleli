@@ -9,9 +9,9 @@ window.onload = () => {loadScreen(); resize();} // * Reacomoda posicion durante 
 window.addEventListener('resize', () => {resize();}, {passive: true} ); // * Escuchar eventos de redimension para reajustar a la pantalla
 document.querySelectorAll('.btn').forEach( el => { // * Escucha eventos de click en cada boton para pasar a otra seccion
     el.addEventListener('click', e => {
-        let id = e.target.getAttribute('id'); // TODO: Obtengo contenido del atributo id del elemento.
-        nextSection(verificarSeccion(id));    // TODO: Verifico el id del elemento para identificar la seccion solicitada.
-                                              // TODO: Una vez verificado, posiciono el scroll en la seccion solicitada. 
+        let id = e.target.getAttribute('id'); // Obtengo contenido del atributo id del elemento.
+        nextSection(verificarSeccion(id));    // Verifico el id del elemento para identificar la seccion solicitada.
+                                              // Una vez verificado, posiciono el scroll en la seccion solicitada. 
                                               // ! La VERIFICACION fue necesaria para evitar colicion de atributos id entre etiquetas HTML y que sea entendible en el mismo.
     }, {passive: true} )
 })
