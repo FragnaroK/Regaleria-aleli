@@ -28,18 +28,18 @@
 
     --center-calc: calc(50% - 94px);
 
-    --bk-img-1: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/Fondos%2FFondo-1.jpg?alt=media&token=c50dff4a-ed47-43e2-a7f6-806593c56c0f');
-    --bk-img-2: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/Fondos%2FFondo-2.jpg?alt=media&token=bec2e2ab-9710-444b-9fc9-baca93fe1f44');
-    --bk-loader-img: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/Fondos%2Floaderbk.jpg?alt=media&token=545f44d1-b6ae-4116-9c0e-6dab5ed90454');
+    --bk-img-1: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/Fondos%2FFondo-1.jpg?alt=media&token=?');
+    --bk-img-2: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/Fondos%2FFondo-2.jpg?alt=media&token=?');
+    --bk-loader-img: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/Fondos%2Floaderbk.jpg?alt=media&token=?');
     
-    --section-title-img: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/SVG%2FEllipse.svg?alt=media&token=cf56cebd-c6fa-433c-a633-52a6542ae7e5');
+    --section-title-img: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/SVG%2FEllipse.svg?alt=media&token=?');
     
-    --btn-next-img: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/SVG%2Fboton-siguiente-seccion.svg?alt=media&token=9e7e9c1d-d948-4b28-a375-33d1bc691429');
-    --btn-home-img: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/SVG%2Fboton-inicio.svg?alt=media&token=026bfab9-eb7b-48b7-9c3e-3ea898718ada');
+    --btn-next-img: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/SVG%2Fboton-siguiente-seccion.svg?alt=media&token=?');
+    --btn-home-img: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/SVG%2Fboton-inicio.svg?alt=media&token=?');
     
-    --click-icon: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/SVG%2FclickIcon.png?alt=media&token=ea5f8995-cffe-4285-b8b8-fb9252699ae3');
+    --click-icon: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/SVG%2FclickIcon.png?alt=media&token=?');
     
-    --logo: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/SVG%2Flogo.svg?alt=media&token=9b1bc6f4-42d6-42c6-b710-becedf3d23c5');
+    --logo: url('https://firebasestorage.googleapis.com/v0/b/regaleriaalecam.appspot.com/o/SVG%2Flogo.svg?alt=media&token=?');
 }
 
 *{
